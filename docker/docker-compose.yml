@@ -1,0 +1,14 @@
+---
+  version: '3.8'
+  services:
+    fas_landing:
+      image: nginx:latest
+      container_name: fas-landing
+      restart: unless-stopped
+      env_file:
+        - .env
+      volumes: 
+        - ../web/dist:/usr/share/nginx/html
+      ports:
+        - '8081:80'
+        - '8083:443'
