@@ -7,8 +7,8 @@
       restart: unless-stopped
       env_file:
         - .env
-      volumes: 
+      volumes:
+        - ./lib:/opt/fas-scripts:ro 
         - ../web/dist:/usr/share/nginx/html
       ports:
         - '8081:80'
-        - '8083:443'
