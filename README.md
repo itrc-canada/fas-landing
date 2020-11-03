@@ -1,5 +1,6 @@
 # FAS Landing
-_ Just a status page for Force Apps / Services _
+_Just a status page for Force Apps / Services_
+
 
 
 ## Commands / Installation
