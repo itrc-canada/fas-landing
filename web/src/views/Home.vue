@@ -21,10 +21,11 @@
     <!-- Force -->
     <section class="section">
       <div class="container">
-        <h4 class="subtitle is-4">Force</h4>
+        <h4 class="subtitle is-4">Servers</h4>
         <div class="level">
           <div class="level-left">
             <img src="https://healthchecks.io/badge/d8c9adaf-5310-4bc8-a2c8-ade0ee/Ef1AWlxP/Force.svg" alt="Force-Status-SVG" class="level-item">
+            <img src="https://healthchecks.io/badge/d8c9adaf-5310-4bc8-a2c8-ade0ee/OFSz4FEm/FAS.svg" alt="FAS-Status-SVG" class="level-item">
           </div>
         </div>
       </div>
@@ -32,11 +33,10 @@
     <!-- Force Application Server -->
     <section class="section">
       <div class="container">
-        <h4 class="subtitle is-4">Force Application Server (FAS)</h4>
+        <h4 class="subtitle is-4">FAS Apps</h4>
         <div class="level">
           <div class="level-left">
-            <img src="https://healthchecks.io/badge/d8c9adaf-5310-4bc8-a2c8-ade0ee/OFSz4FEm/FAS.svg" alt="FAS-Status-SVG" class="level-item">
-            <img src="https://healthchecks.io/badge/d8c9adaf-5310-4bc8-a2c8-ade0ee/6wCBBWGE/FAS-Services.svg" alt="FAS-Services-Status-SVG" class="level-item">
+            <img src="https://healthchecks.io/badge/d8c9adaf-5310-4bc8-a2c8-ade0ee/mlX9ClKR/FAS-Apps.svg" alt="FAS-Apps-Status-SVG" class="level-item">
             <img src="https://healthchecks.io/badge/d8c9adaf-5310-4bc8-a2c8-ade0ee/xP4gC36Z/FAS-Landing.svg" alt="FAS-Landiong-Status-SVG" class="level-item">
           </div>
         </div>
